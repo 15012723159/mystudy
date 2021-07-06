@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8d80664bb83b9ee2",
+        "id": "60786cdc2ab1b9e9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "js杂记/1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "js杂记/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,16 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8d80664bb83b9ee2",
+  "active": "60786cdc2ab1b9e9",
   "lastOpenFiles": [
-    "Pasted image 20210626183355.png",
-    "mysql/2.一条更新语句是如何执行的.md",
+    "js杂记/1.md",
+    "js杂记/未命名.md",
+    "mysql/8.事务到底是隔离的还是不隔离的.md",
+    "Pasted image 20210629162249.png",
+    "Pasted image 20210629161826.png",
     "Pasted image 20210626151823.png",
-    "mysql/1.一条sql语句是如何执行的.md",
+    "Pasted image 20210626183355.png",
+    "Pasted image 20210629154245.png",
     "mysql/未命名.md",
-    "javaspring/spring-01/第一课.md",
-    "Pasted image 20210626151745.png",
-    "javaspring/spring-01/未命名.md",
-    "未命名.md"
+    "java杂记/接口和抽象类.md"
   ]
 }
