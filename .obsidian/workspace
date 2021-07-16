@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "js杂记/1.md",
+            "file": "mysql/22 . MySQL有哪些“饮鸩止渴”提高性能的方法？.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js杂记/1.md",
+                "file": "mysql/22 . MySQL有哪些“饮鸩止渴”提高性能的方法？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "60786cdc2ab1b9e9",
   "lastOpenFiles": [
+    "mysql/未命名.md",
     "js杂记/1.md",
     "js杂记/未命名.md",
     "mysql/8.事务到底是隔离的还是不隔离的.md",
@@ -95,7 +96,6 @@
     "Pasted image 20210626151823.png",
     "Pasted image 20210626183355.png",
     "Pasted image 20210629154245.png",
-    "mysql/未命名.md",
     "java杂记/接口和抽象类.md"
   ]
 }
