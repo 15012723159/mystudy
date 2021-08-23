@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "60786cdc2ab1b9e9",
+        "id": "963287273f7883d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mysql/22 . MySQL有哪些“饮鸩止渴”提高性能的方法？.md",
+            "file": "mysql命令/常用命令.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/22 . MySQL有哪些“饮鸩止渴”提高性能的方法？.md",
+                "file": "mysql命令/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "60786cdc2ab1b9e9",
+  "active": "963287273f7883d2",
   "lastOpenFiles": [
+    "mysql命令/常用命令.md",
+    "mysql命令/未命名.md",
+    "mysql/23.主库出现问题了 从库怎么办.md",
+    "mysql/日志和索引的相关问题.md",
+    "Pasted image 20210723142929.png",
     "mysql/未命名.md",
+    "mysql/22 . MySQL有哪些“饮鸩止渴”提高性能的方法？.md",
     "js杂记/1.md",
     "js杂记/未命名.md",
-    "mysql/8.事务到底是隔离的还是不隔离的.md",
-    "Pasted image 20210629162249.png",
-    "Pasted image 20210629161826.png",
-    "Pasted image 20210626151823.png",
-    "Pasted image 20210626183355.png",
-    "Pasted image 20210629154245.png",
-    "java杂记/接口和抽象类.md"
+    "mysql/8.事务到底是隔离的还是不隔离的.md"
   ]
 }
